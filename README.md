@@ -1,6 +1,6 @@
 # Monitoramento de Caminhões com YOLOv8
 
-Este repositório contém um script em Python que utiliza a Inteligência Artificial (IA) para monitorar uma câmera de segurança em tempo real, com o objetivo de identificar caminhões passando em uma área específica. O foco é detectar caminhões-tanque, que são usados por postos de combustível concorrentes para abastecer clientes.
+Este repositório contém um script em Python que utiliza a Inteligência Artificial (IA) para monitorar uma câmera de segurança em tempo real, com o objetivo de identificar caminhões passando em uma área específica. O foco é detectar caminhões-tanque, que são usados por postos de combustível para abastecer seus clientes.
 
 ## Funcionalidades
 
